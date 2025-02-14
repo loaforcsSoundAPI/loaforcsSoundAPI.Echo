@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loaforcsSoundAPI.Echo", "loaforcsSoundAPI.Echo\loaforcsSoundAPI.Echo.csproj", "{36D3DE56-68D1-4D74-A28F-2268016FF866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36D3DE56-68D1-4D74-A28F-2268016FF866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D3DE56-68D1-4D74-A28F-2268016FF866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D3DE56-68D1-4D74-A28F-2268016FF866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D3DE56-68D1-4D74-A28F-2268016FF866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

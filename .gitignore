@@ -1,0 +1,7 @@
+.vs/**
+*/obj/**
+*/bin/**
+Packages/**
+.idea/
+loaforcsSoundAPI.sln.DotSettings.user
+*.csproj.user
